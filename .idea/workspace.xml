@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="19c1802b-d9ae-4cf4-82b8-4bde6e4df55d" name="Default" comment="" />
+    <list default="true" id="19c1802b-d9ae-4cf4-82b8-4bde6e4df55d" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/Aplicações/Jogo de adivinhar numero/Jogo de adinhar o numero.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aplicações/Média das notas/media notas.py" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,7 +13,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -51,6 +54,16 @@
               <item name="dev" type="b2602c69:ProjectViewProjectNode" />
               <item name="dev" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="dev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dev" type="462c0819:PsiDirectoryNode" />
+              <item name="Jogo de adivinhar numero" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dev" type="462c0819:PsiDirectoryNode" />
+              <item name="Média das notas" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -62,6 +75,8 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\emmer\PycharmProjects\untitled\dev" />
+      <recent name="C:\Users\emmer\PycharmProjects\untitled\dev\Aplicações" />
       <recent name="C:\Users\emmer\PycharmProjects\untitled\dev\Média das notas" />
     </key>
   </component>
@@ -77,7 +92,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Jogo de adinhar o numero">
+  <component name="RunManager" selected="Python.media notas (1)">
     <configuration name="Jogo de adinhar o numero" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="dev" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -91,24 +106,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Jogo de adivinhar numero/Jogo de adinhar o numero.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="MediaEscolar" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="dev" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Downloads" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$USER_HOME$/Downloads/MediaEscolar.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -150,6 +147,24 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="media notas (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="dev" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Média das notas" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Média das notas/media notas.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="media notas" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="dev" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -170,18 +185,18 @@
     </configuration>
     <list>
       <item itemvalue="Python.media notas" />
-      <item itemvalue="Python.MediaEscolar" />
       <item itemvalue="Python.Jogo de adinhar o numero" />
       <item itemvalue="Python.jogo_advinha_numero (1)" />
       <item itemvalue="Python.jogo_advinha_numero (2)" />
+      <item itemvalue="Python.media notas (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.media notas (1)" />
         <item itemvalue="Python.Jogo de adinhar o numero" />
         <item itemvalue="Python.jogo_advinha_numero (2)" />
         <item itemvalue="Python.jogo_advinha_numero (1)" />
         <item itemvalue="Python.media notas" />
-        <item itemvalue="Python.MediaEscolar" />
       </list>
     </recent_temporary>
   </component>
@@ -233,41 +248,10 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Jogo de adivinhar numero/Jogo de adinhar o numero.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="782">
-          <caret line="46" selection-start-line="46" selection-end-line="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Jogo de adivinhar numero/Jogo de adinhar o numero.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="782">
-          <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Média das notas/media notas.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="38" column="64" selection-start-line="38" selection-start-column="64" selection-end-line="38" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Média das notas/media notas.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="42" selection-start-line="26" selection-start-column="42" selection-end-line="26" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Média das notas/media notas.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="38" column="64" selection-start-line="38" selection-start-column="64" selection-end-line="38" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Jogo de adivinhar numero/Jogo de adinhar o numero.py" />
+    <entry file="file://$PROJECT_DIR$/Jogo de adivinhar numero/Jogo de adinhar o numero.py" />
+    <entry file="file://$PROJECT_DIR$/Média das notas/media notas.py" />
+    <entry file="file://$PROJECT_DIR$/Média das notas/media notas.py" />
     <entry file="file://$USER_HOME$/Downloads/jogo_advinha_numero (1).py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
@@ -283,11 +267,17 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Jogo de adivinhar numero/Jogo de adinhar o numero.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Média das notas/media notas.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="782">
-          <caret line="46" selection-start-line="46" selection-end-line="46" />
+        <state relative-caret-position="255">
+          <caret line="15" column="42" lean-forward="true" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="42" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Jogo de adivinhar numero/Jogo de adinhar o numero.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
