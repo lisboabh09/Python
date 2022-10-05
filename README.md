@@ -1,2 +1,1 @@
-# Python
- Aplicações Python
+# Aplicações Python
