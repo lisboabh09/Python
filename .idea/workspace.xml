@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="19c1802b-d9ae-4cf4-82b8-4bde6e4df55d" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/Aplicações/Jogo de adivinhar numero/Jogo de adinhar o numero.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aplicações/Média das notas/media notas.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -46,7 +45,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -68,6 +66,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -225,7 +224,7 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="830" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2538004" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2538004" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3299712" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5026042" side_tool="true" weight="0.32914925" />
       <window_info anchor="bottom" id="Version Control" order="7" />
@@ -252,32 +251,14 @@
     <entry file="file://$PROJECT_DIR$/Jogo de adivinhar numero/Jogo de adinhar o numero.py" />
     <entry file="file://$PROJECT_DIR$/Média das notas/media notas.py" />
     <entry file="file://$PROJECT_DIR$/Média das notas/media notas.py" />
-    <entry file="file://$USER_HOME$/Downloads/jogo_advinha_numero (1).py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="29" column="22" lean-forward="true" selection-start-line="29" selection-start-column="22" selection-end-line="29" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Downloads/jogo_advinha_numero (2).py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="49" column="3" lean-forward="true" selection-start-line="49" selection-start-column="3" selection-end-line="49" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Jogo de adivinhar numero/Jogo de adinhar o numero.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$USER_HOME$/Downloads/jogo_advinha_numero (1).py" />
+    <entry file="file://$USER_HOME$/Downloads/jogo_advinha_numero (2).py" />
     <entry file="file://$PROJECT_DIR$/Média das notas/media notas.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="15" column="42" lean-forward="true" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="42" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Jogo de adivinhar numero/Jogo de adinhar o numero.py">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
